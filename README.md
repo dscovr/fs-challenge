@@ -27,7 +27,7 @@ The project should implement key features such as:
 * Authentication (mandatory)
 * Video upload (mandatory)
 * Video listing and details (mandatory)
-* Video Processing (mandatory)
+* Video Processing (optional)
 * Search (optional)
 
 If you enjoy implementing other features and at your discretion, we will evaluate it positively;
@@ -60,7 +60,7 @@ if you want to implement another feature instead of the optional one (the search
     * Video title, description, and uploader information.
     * A section for user comments related to the video (BONUS)
 
-### Video Processing [mandatory]
+### Video Processing [optional]
 
 * Develop a long-running task (in your preferred language) for processing uploaded video files to apply a custom watermark:
     * Enable the addition of a custom watermark (text or image) to the video.
